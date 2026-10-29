@@ -30,10 +30,6 @@ Everything is set from a single window. Press **F6** to show or hide the overlay
 
 ![Editor](docs/editor.png)
 
-Switch between English and Spanish any time with the ES / EN button at the top right.
-
-Free to download and use. Manufacturer logos belong to their owners.
-
 ---
 
 <a name="apex-overlay-español"></a>
@@ -69,7 +65,3 @@ Necesita Windows 10 u 11 e iRacing.
 Todo se configura desde una sola ventana. **F6** muestra u oculta los overlays y **F7** te deja arrastrarlos sobre tu monitor. En el editor podés arrastrar las columnas para reordenarlas, elegir qué muestra cada panel y cambiar el tamaño y la opacidad. El interruptor **Demo** llena los overlays con una carrera simulada para acomodar todo sin estar en una sesión.
 
 ![Editor](docs/editor-es.png)
-
-Cambiás entre inglés y español cuando quieras con el botón ES / EN de arriba a la derecha.
-
-Gratis para descargar y usar. Los logos de los fabricantes pertenecen a sus titulares.
